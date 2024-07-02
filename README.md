@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackosheadev&label=Profile%20views&color=0e75b6&style=flat" alt="jackosheadev" /> </p>
 
-- 🔭 I’m currently working on **a Swift Application**
+- 🔭 I’m currently working on **a portfolio website using Vue and Shadcn**
 
-- 🌱 I’m currently learning **Swift, Pandas, Plotly and Seaborn**
+- 🌱 I’m currently learning **Kubernetes, Vue, Rust and Typescript**
 
-- 💬 Ask me about **Kotlin, Svelte, Compose, Data Science**
+- 💬 Ask me about **the project ideas I'm working on**
 
 - 📫 How to reach me **jackoshea4038@gmail.com**
 
